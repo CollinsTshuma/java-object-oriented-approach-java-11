@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-oop-1z0-819 (11)" />
+        <module name="java-oop-1z0-819 (9)" />
+        <module name="java-oop-1z0-819 (8)" />
+        <module name="java-oop-1z0-819 (7)" />
+        <module name="java-oop-1z0-819 (6)" />
+        <module name="java-oop-1z0-819" />
+        <module name="java-oop-1z0-819 (5)" />
+        <module name="java-oop-1z0-819 (4)" />
+        <module name="java-oop-1z0-819 (3)" />
+        <module name="java-oop-1z0-819 (2)" />
+        <module name="java-oop-1z0-819 (1)" />
+        <module name="java-oop-1z0-819 (10)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-oop-1z0-819" target="1.11" />
+      <module name="java-oop-1z0-819 (1)" target="1.11" />
+      <module name="java-oop-1z0-819 (10)" target="1.11" />
+      <module name="java-oop-1z0-819 (11)" target="1.11" />
+      <module name="java-oop-1z0-819 (2)" target="1.11" />
+      <module name="java-oop-1z0-819 (3)" target="1.11" />
+      <module name="java-oop-1z0-819 (4)" target="1.11" />
+      <module name="java-oop-1z0-819 (5)" target="1.11" />
+      <module name="java-oop-1z0-819 (6)" target="1.11" />
+      <module name="java-oop-1z0-819 (7)" target="1.11" />
+      <module name="java-oop-1z0-819 (8)" target="1.11" />
+      <module name="java-oop-1z0-819 (9)" target="1.11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

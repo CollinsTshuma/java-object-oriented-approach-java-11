@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/02/demos/1-classes-and-objects/before/pom.xml" />
+        <option value="$PROJECT_DIR$/02/demos/1-classes-and-objects/complete/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/2-state-and-behaviour/before/pom.xml" />
+        <option value="$PROJECT_DIR$/03/demos/2-state-and-behaviour/complete/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/3-static-members/before/pom.xml" />
+        <option value="$PROJECT_DIR$/04/demos/3-static-members/complete/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/4-encapsulation-and-inheritance/before/pom.xml" />
+        <option value="$PROJECT_DIR$/05/demos/4-encapsulation-and-inheritance/complete/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/before/pom.xml" />
+        <option value="$PROJECT_DIR$/06/demos/complete/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/before/pom.xml" />
+        <option value="$PROJECT_DIR$/07/demos/complete/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

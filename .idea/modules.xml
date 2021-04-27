@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-object-oriented-approach-java-11.iml" filepath="$PROJECT_DIR$/.idea/java-object-oriented-approach-java-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02/demos/1-classes-and-objects/before/java-oop-1z0-819.iml" filepath="$PROJECT_DIR$/02/demos/1-classes-and-objects/before/java-oop-1z0-819.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02/demos/1-classes-and-objects/complete/java-oop-1z0-819 (1).iml" filepath="$PROJECT_DIR$/02/demos/1-classes-and-objects/complete/java-oop-1z0-819 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/demos/before/java-oop-1z0-819 (10).iml" filepath="$PROJECT_DIR$/07/demos/before/java-oop-1z0-819 (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/07/demos/complete/java-oop-1z0-819 (11).iml" filepath="$PROJECT_DIR$/07/demos/complete/java-oop-1z0-819 (11).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/2-state-and-behaviour/before/java-oop-1z0-819 (2).iml" filepath="$PROJECT_DIR$/03/demos/2-state-and-behaviour/before/java-oop-1z0-819 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/03/demos/2-state-and-behaviour/complete/java-oop-1z0-819 (3).iml" filepath="$PROJECT_DIR$/03/demos/2-state-and-behaviour/complete/java-oop-1z0-819 (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/3-static-members/before/java-oop-1z0-819 (4).iml" filepath="$PROJECT_DIR$/04/demos/3-static-members/before/java-oop-1z0-819 (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/3-static-members/complete/java-oop-1z0-819 (5).iml" filepath="$PROJECT_DIR$/04/demos/3-static-members/complete/java-oop-1z0-819 (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/4-encapsulation-and-inheritance/before/java-oop-1z0-819 (6).iml" filepath="$PROJECT_DIR$/05/demos/4-encapsulation-and-inheritance/before/java-oop-1z0-819 (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/4-encapsulation-and-inheritance/complete/java-oop-1z0-819 (7).iml" filepath="$PROJECT_DIR$/05/demos/4-encapsulation-and-inheritance/complete/java-oop-1z0-819 (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/before/java-oop-1z0-819 (8).iml" filepath="$PROJECT_DIR$/06/demos/before/java-oop-1z0-819 (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/complete/java-oop-1z0-819 (9).iml" filepath="$PROJECT_DIR$/06/demos/complete/java-oop-1z0-819 (9).iml" />
+    </modules>
+  </component>
+</project>
